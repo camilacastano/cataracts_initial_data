@@ -1,0 +1,10 @@
+﻿file_name,relative_path,size_MB,container_format,duration_seconds,width_px,height_px,resolution,frame_rate_fps,frame_count,video_codec,overall_bitrate_kbps,status,error
+p2-bi.mp4,bi/p2-bi.mp4,2049.3,"mov,mp4,m4a,3gp,3g2,mj2",1101.007,1920,1080,1920x1080,59.945,66000,h264,15613.66,OK,
+p3-bi.mp4,bi/p3-bi.mp4,2048.78,"mov,mp4,m4a,3gp,3g2,mj2",1064.973,1920,1080,1920x1080,59.945,63840,h264,16137.91,OK,
+p4-bi.mp4,bi/p4-bi.mp4,2049.77,"mov,mp4,m4a,3gp,3g2,mj2",1159.061,1920,1080,1920x1080,59.945,69480,h264,14835.07,OK,
+p5-bi.mp4,bi/p5-bi.mp4,2050.27,"mov,mp4,m4a,3gp,3g2,mj2",1049.959,1920,1080,1920x1080,59.945,62940,h264,16380.54,OK,
+p1-one.mp4,one/p1-one.mp4,1005.94,"mov,mp4,m4a,3gp,3g2,mj2",1054.267,1280,720,1280x720,30.0,31628,h264,8004.09,OK,
+p2-one.mp4,one/p2-one.mp4,1198.6,"mov,mp4,m4a,3gp,3g2,mj2",1256.3,1280,720,1280x720,30.0,37689,h264,8003.33,OK,
+p3-one.mp4,one/p3-one.mp4,1900.81,"mov,mp4,m4a,3gp,3g2,mj2",1992.2,1280,720,1280x720,30.0,59766,h264,8003.78,OK,
+p4-one.mp4,one/p4-one.mp4,1509.72,"mov,mp4,m4a,3gp,3g2,mj2",1582.233,1280,720,1280x720,30.0,47467,h264,8004.15,OK,
+p5-one.mp4,one/p5-one.mp4,1142.86,"mov,mp4,m4a,3gp,3g2,mj2",1197.667,1280,720,1280x720,30.0,35930,h264,8004.72,OK,
